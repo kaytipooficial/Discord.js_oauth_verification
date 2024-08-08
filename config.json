@@ -1,0 +1,14 @@
+{
+    "token":"",
+    "clientid": "",
+    "clientsecret": "",
+    "redirecturi": "",
+    "mysqlhost": "",
+    "mysqldatabase": "",
+    "mysqluser": "",
+    "mysqlpassword": "",
+    "mysqlport": 3306,
+    "sendinfochannelid": "",
+    "sendinfoguildid": "",
+    "finalwebpageredirect": ""
+}
